@@ -1,0 +1,45 @@
+body{
+    background-image: url(background/IMG_20191211_020655.JPG);
+    background-size: cover;
+    margin: 0;
+}
+.navbar{
+    width : 100vw;
+    background-color: rgb(33, 131, 148);
+    padding : 3vh;
+    color: whitesmoke;
+    font-family: cursive;
+}
+.content{
+    width: 49vh;
+    height: 10vh;
+    background-color: rgb(35, 134, 173);
+    margin: auto;
+    margin-top: 13vh;
+    padding: 3vh 3vh;
+}
+.nama{
+    width: 49vh;
+    height: 37vh;
+    background-color: rgb(33, 106, 157);
+    margin: auto;
+    padding: 7vh 3vh;
+    color: whitesmoke;
+    font-size: 2vh;
+    text-align:center;
+}
+.quote{
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 3vh;
+}
+.img {
+    padding-top: 5vh;
+}
+h3 {
+    padding: 1vh;
+}
+button{
+    background: rgb(35, 134, 173);
+    border-radius: 4pt;
+}
